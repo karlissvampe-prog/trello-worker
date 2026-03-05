@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "trello-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f97fc611-54d0-4b7e-ae00-96087b0aec71",
+			"database_name": "trello-worker-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
